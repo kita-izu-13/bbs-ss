@@ -51,7 +51,7 @@ Web上で動く掲示板アプリです。
 
 ## 実行イメージ<br>
 ※実行イメージは作成途中です
- !["jankengame"](images/jankengame.gif) <br>
+ !["bbs"](images/01signupLogin.gif) <br>
 　　　> [▲ トップへ戻る](#top)
  
 ## 工夫した点<br>
