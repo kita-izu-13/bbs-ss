@@ -58,6 +58,21 @@ Web上で動く掲示板アプリです。
 
  ・・・・・・・　メモ追加　・・・・・・・<br>
  !["bbs"](images/02add.gif) <br>
+
+ ・・・・・・・　メモ更新　・・・・・・・<br>
+ !["bbs"](images/03update.gif) <br>
+
+ ・・・・・・・　メモ削除　・・・・・・・<br>
+ !["bbs"](images/04delete.gif) <br>
+
+ ・・・・・　メモ削除（複数）　・・・・・<br>
+ !["bbs"](images/05delete2.gif) <br>
+
+ ・・・・・・・　並べ替え　・・・・・・・<br>
+ !["bbs"](images/06sort.gif) <br>
+
+ ・・・・・・　 ログアウト 　・・・・・・<br>
+ !["bbs"](images/07logout.gif) <br>
  
 　　　> [▲ トップへ戻る](#top)
  
