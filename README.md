@@ -34,7 +34,7 @@ Web上で動く掲示板アプリです。
 1. メモ変更機能<br>
 1. メモ削除機能<br>
 1. メモ並べ替え機能<br>
-　> [▲ トップへ戻る](#top)
+　　　> [▲ トップへ戻る](#top)
 
 ## 使用環境と技術<br>
 ・言語等：Java（servlet、model、dao）、JSP、CSS、JavaScript、SQL<br>
