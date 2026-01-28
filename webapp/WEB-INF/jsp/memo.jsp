@@ -48,10 +48,9 @@ if(memoOrder!=null){
 	<h1>掲示板アプリへようこそ</h1>
 	<form action="MainServlet" method="post">
 		<div class="button">
-			<input type="submit" name="select" value="追加" class="insert">
-			<input type="submit" name="select" value="更新" class="update" id="action1">
-			<input type="submit" name="select" value="削除" class="delete" id="action2">
-			<input type="submit" name="select" value="キャンセル" class="cancel" id="action3">
+			<input type="submit" name="select" value="追加">
+			<input type="submit" name="select" value="更新">
+			<input type="submit" name="select" value="削除">
 		</div>
 		<br>
 		<br>
@@ -107,10 +106,6 @@ if(memoOrder!=null){
 	 	 <%	if( bl1){ %>
 			 <%--　update（更新）--%> 
 			 <p><%= update %></p> 
-			 <p><%= radio %></p> 
-			 
-			<%-- 更新ボタンが押されたらボタン表示変更　jsでメソッド呼出し --%>
-			<p return Update()></p>
 			
 		 	<form action="MainServlet" method="post">
 		 		
