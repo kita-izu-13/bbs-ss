@@ -102,3 +102,16 @@ Web上で動く掲示板アプリです。
 ・一部構造が崩れている箇所がありますが、<br>
 　あえて「その時の実力」が把握できるように、そのままにしております。<br>
 　　　> [▲ トップへ戻る](#top)
+
+## 制作物<br>
+　【 コマンドプロンプトで実行 】<br>
+・じゃんけんゲーム：[janken-java](https://github.com/kita-izu-13/janken-java)<br>
+
+　【 Webアプリで実行 】<br>
+・じゃんけんゲーム：[janken-ss](https://github.com/kita-izu-13/janken-ss)<br>
+・掲示板アプリ：[bbs-ss](https://github.com/kita-izu-13/bbs-ss)<br>
+・メモアプリ：[memo-ss](https://github.com/kita-izu-13/memo-ss)<br>
+
+　【 Androidアプリで実行 】<br>
+・じゃんけんゲーム：[janken-android](https://github.com/kita-izu-13/janken-android)<br>
+　　　> [▲ トップへ戻る](#top)
